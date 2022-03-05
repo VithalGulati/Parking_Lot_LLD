@@ -1,0 +1,17 @@
+Requirements considered:
+
+The parking lot can have multiple levels.
+Each level can have 'compact', 'large', 'bike' and 'electric' spots.
+Vehicle should be charged according to spot type, time of parking and duration of parking.
+Should be able to add more spots to level.
+Show the available number of spots on each level.
+
+
+
+Used enums over strings
+
+
+I added some more functionality like -
+Car / Bike classes extend the Vehicle Base Class
+Ticket has Vehicle, Spot and Payment objects
+Have added unassignSpot() as well.
