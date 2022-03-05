@@ -36,4 +36,4 @@ EntrancePanel and ExitPanel: EntrancePanel will print tickets, and ExitPanel wil
 
 Payment: This class will be responsible for making payments. The system will support credit card and cash transactions.
 
-ParkingRate: This class will keep track of the hourly parking rates. It will specify a dollar amount for each hour. For example, for a two hour parking ticket, this class will define the cost for the first and the second hour.
+ParkingRate: This class will keep track of the hourly parking rates.
