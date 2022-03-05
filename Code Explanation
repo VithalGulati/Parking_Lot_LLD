@@ -26,9 +26,8 @@ ParkingFloor: The parking lot will have many parking floors.
 
 ParkingSpot: Each parking floor will have many parking spots. Our system will support different parking spots 1) Handicapped, 2) Compact, 3) Large, 4) Motorcycle, and 5) Electric.
 
-Account: We will have two types of accounts in the system: one for an Admin, and the other for a parking attendant.
+Display board:-To display status.
 
-Parking ticket: This class will encapsulate a parking ticket. Customers will take a ticket when they enter the parking lot.
 
 Vehicle: Vehicles will be parked in the parking spots. Our system will support different types of vehicles 1) Car, 2) Truck, 3) Electric, 4) Van and 5) Motorcycle.
 
